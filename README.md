@@ -1,2 +1,2 @@
-# circleradius
- calculates radius of a circle
+# circlearea
+ calculates area of a circle
